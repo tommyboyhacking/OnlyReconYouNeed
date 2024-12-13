@@ -1,5 +1,8 @@
 # OnlyReconYouNeed
-Only real level of recon I use when bug hunting
+
+Quick and dirty script to pull subs and check statuses / titles.
+
+Basically automating the limited recon tools I use when hunting
 
 Requirements
 
