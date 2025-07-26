@@ -8,4 +8,4 @@ HTTPX_LIST=$1_$(date +%F)_'httpx.txt'
 
 subfinder -d $DOMAIN > $SUBFINDER_LIST
 
-httpx -l $SUBFINDER_LIST -sc --title >> $HTTPX_LIST
+httpx -l $SUBFINDER_LIST -sc -fr -td --title >> $HTTPX_LIST
